@@ -198,6 +198,9 @@ nav ul {
   justify-content: space-around;
 }
 
+.about-container .section-description {
+  margin-bottom: 30px;
+}
 /* ============What I Do Styles============ */
 
 .skills-container {
